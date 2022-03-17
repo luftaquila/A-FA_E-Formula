@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "IRF640")(type "Legacy")(uri "${KIPRJMOD}/PARTS/IRF640/IRF640.lib")(options "")(descr ""))
+  (lib (name "SPAN02A-12")(type "Legacy")(uri "${KIPRJMOD}/PARTS/SPAN02A-12/SPAN02A-12.lib")(options "")(descr ""))
+)
