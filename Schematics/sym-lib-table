@@ -1,4 +1,8 @@
 (sym_lib_table
   (lib (name "IRF640")(type "Legacy")(uri "${KIPRJMOD}/PARTS/IRF640/IRF640.lib")(options "")(descr ""))
   (lib (name "SPAN02A-12")(type "Legacy")(uri "${KIPRJMOD}/PARTS/SPAN02A-12/SPAN02A-12.lib")(options "")(descr ""))
+  (lib (name "ADJ14024")(type "Legacy")(uri "${KIPRJMOD}/PARTS/ADJ14024/ADJ14024.lib")(options "")(descr ""))
+  (lib (name "2-1445088-8")(type "Legacy")(uri "${KIPRJMOD}/PARTS/2-1445088-8/2-1445088-8.lib")(options "")(descr ""))
+  (lib (name "A-FA_PARTS")(type "KiCad")(uri "${KIPRJMOD}/PARTS/A-FA_PARTS.kicad_sym")(options "")(descr ""))
+  (lib (name "TL783")(type "Legacy")(uri "${KIPRJMOD}/PARTS/TL783/TL783.lib")(options "")(descr ""))
 )

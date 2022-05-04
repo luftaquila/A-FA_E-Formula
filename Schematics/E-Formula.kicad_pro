@@ -373,7 +373,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 1,
     "drawing": {
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
@@ -420,16 +420,12 @@
       "HV BATTERY PACK"
     ],
     [
-      "fe45c4a1-51cd-4239-8a94-676cbced478b",
-      "BMS"
+      "bd7a4227-de39-4fe2-ac1a-4873d6d64f15",
+      "TSAL"
     ],
     [
-      "ee974637-a468-43a5-94d9-afb89ac8ead7",
-      "TSAL & VOLTAGE INDICATOR"
-    ],
-    [
-      "fb13280b-75f6-4af9-8280-b5793cf708fe",
-      "IMD"
+      "875aaf06-2e26-442a-8579-5ea9c9a7144f",
+      "DASHBOARD"
     ],
     [
       "fc1f9328-68e7-4458-baab-85535d6806a4",
@@ -440,12 +436,20 @@
       "MOTOR CONTROLLER"
     ],
     [
-      "2137763d-415a-43f9-9668-d80a5a0a4e67",
-      "DASHBOARD"
+      "794facf2-9c55-4e51-8f78-748ea888ad36",
+      "BATT_PCB"
     ],
     [
-      "a848e2de-1604-4c44-8351-573813f9a9f8",
-      "ENERGY METER"
+      "b57bdca7-40ce-46a0-9254-68c4c4ba8068",
+      "PRE-MOTOR"
+    ],
+    [
+      "fca22610-0db5-4dfa-8917-cdfbe574819c",
+      "CHARGE SHUTDOWN"
+    ],
+    [
+      "2732e872-9bff-4509-8a03-4c19f9c833a2",
+      "BSPD"
     ]
   ],
   "text_variables": {}
