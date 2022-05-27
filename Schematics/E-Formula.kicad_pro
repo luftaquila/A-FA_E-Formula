@@ -441,15 +441,23 @@
     ],
     [
       "b57bdca7-40ce-46a0-9254-68c4c4ba8068",
-      "PRE-MOTOR"
+      "JUNCTION"
     ],
     [
       "fca22610-0db5-4dfa-8917-cdfbe574819c",
       "CHARGE SHUTDOWN"
     ],
     [
-      "2732e872-9bff-4509-8a03-4c19f9c833a2",
+      "1586aac4-134d-450f-9bb9-def935b69099",
       "BSPD"
+    ],
+    [
+      "1187a5fa-3268-4d2c-b869-14cd95b3f944",
+      "Sheet61EFC277"
+    ],
+    [
+      "3c0e1984-4011-4979-8e12-ebe07cc1ce09",
+      "Sheet61EFC276"
     ]
   ],
   "text_variables": {}
